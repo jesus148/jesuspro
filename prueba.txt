@@ -1,11 +1,4 @@
 hi there a new change 
 you should make git pull
-x
-x
-x
-x
-x
-x
 
-x
-x
+
